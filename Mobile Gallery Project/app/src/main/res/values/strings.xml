@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="login_sign_up"><u>Belum Daftar? Daftar Sekarang</u></string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="input_email">Masukkan Email</string>
+    <string name="input_username">Masukkan Username</string>
+    <string name="input_password">Masukkan Password</string>
+    <string name="sign_up_login"><u>Sudah Punya Akun? Login Sekarang</u></string>
+
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="add_data">Tambah Data</string>
+
+    <string name="add_data_gallery">Tambah Data Gallery</string>
+    <string name="id_pembelian_input">Masukkan Id Pembelian</string>
+    <string name="deskripsi_input">Masukkan Deskripsi</string>
+    <string name="kategori_input">Masukkan Kategori</string>
+    <string name="harga_jual_input">Masukkan Harga Jual</string>
+
+    <string name="edit_data_gallery">Update Data Gallery</string>
+
+    <string name="title_pembelian">Pembelian</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_penjualan">Penjualan</string>
+    <string name="title_data_admin">Data Admin</string>
+
+    <string name="button_add">Button Add</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

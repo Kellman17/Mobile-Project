@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Penjualan">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="70dp"
+        android:text="Input Data Barang"
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="-250dp"
+        android:layout_marginBottom="200dp"
+        android:hint="Id_Lukisan"
+        android:textSize="15dp"
+        android:typeface="serif"
+        android:textColor="@color/black"
+
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="-380dp"
+        android:layout_marginBottom="165dp"
+        android:hint="Nama_Customer"
+        android:textSize="15dp"
+        android:typeface="serif"
+        android:id=""
+        android:textColor="@color/black"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="-380dp"
+        android:layout_marginBottom="125dp"
+        android:hint="Alamat_Customer"
+        android:textSize="15dp"
+        android:typeface="serif"
+        android:textColor="@color/black"
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="-380dp"
+        android:layout_marginBottom="85dp"
+        android:hint="Date"
+        android:textSize="15dp"
+        android:typeface="serif"
+        android:textColor="@color/black"
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight=""
+        android:layout_marginLeft="-380dp"
+        android:layout_gravity="center_vertical"
+        android:text="Cancel"
+        android:textStyle="bold"
+        android:typeface="monospace"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_weight=""
+        android:text="Input" />
+
+</>
